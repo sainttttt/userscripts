@@ -1,0 +1,16 @@
+@-moz-document domain("0-learning.oreilly.com.books.kpl.org") {
+  .body, div, a, div > h1, h1.tochead {
+    color: #c9c9c9 !important;
+  }
+
+  div, article, section, nav {
+
+    background-color: #191919 !important;
+  }
+
+
+  .ucvMode-black #book-content #sbo-rt-content h1, .ucvMode-black #book-content #sbo-rt-content h2, .ucvMode-black #book-content #sbo-rt-content h3, .ucvMode-black #book-content #sbo-rt-content h4, .ucvMode-black #book-content #sbo-rt-content h5, .ucvMode-black #book-content #sbo-rt-content h6 {
+    color: #c9c9c9 !important;
+
+  }
+}
